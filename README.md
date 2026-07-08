@@ -199,7 +199,3 @@ The goal of this project is not to create an advanced quadruped robot, but to un
 ## 👨‍💻 Author
 
 **V**
-
-3D Printing Technology Program
-
-University Project
