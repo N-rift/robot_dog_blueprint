@@ -28,7 +28,7 @@ The design focuses on:
 
 The following quadruped robot design was used as a reference for mechanical analysis.
 
-![Robot Dog](robot_dog_reference.jpg)
+![Robot Dog](puppy.jpg)
 
 *Figure 1: Reference quadruped robot mechanical design.*
 
